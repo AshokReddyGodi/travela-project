@@ -5,7 +5,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("img/photo1.jpeg");
+  background-image: url("../img/photo1.jpeg");
   background-color: #cccccc;
   height: 750px;
   background-position: center;
